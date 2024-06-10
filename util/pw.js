@@ -1,4 +1,4 @@
-const status = "AUTOMATIC";
+const status = "Dreii";
 const botName = "💎 PRIME MUSIC";
 const Text = "GlaceYT";
 const version = "Latest@ v1.0"; 

@@ -10,7 +10,7 @@ function printWatermark() {
   console.log('\x1b[1m\x1b[36m╔════════════════════════════════════════════╗');
   console.log('\x1b[1m\x1b[36m║                                            ║');
   console.log(`\x1b[1m\x1b[36m            ${botName}     `);
-  console.log(`\x1b[1m\x1b[36m            👑 Authorization : ${status}    `);
+  console.log(`\x1b[1m\x1b[36m            👑 Authorization : ${dreiibot}    `);
   console.log(`\x1b[1m\x1b[36m            💡 Version: ${version}`);
   console.log(`\x1b[1m\x1b[36m            📅 Uptime: ${uptimeInSeconds}s`);
   console.log(`\x1b[1m\x1b[36m            🚀 Powered by ${Text}`);
